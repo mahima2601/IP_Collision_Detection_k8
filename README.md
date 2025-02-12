@@ -22,5 +22,5 @@ IP Collision Detection and Reporting Tool for Kubernetes (ip-tool)
 
 
 ## 5. Now run the shells script
-write a script (e.g., collect-ips.sh) that collects IP addresses from all Kubernetes clusters and saves them into ip-list.txt.: collect-ips.sh
-Once the IP addresses are collected, you can run the ip-tool.py script to check for collisions.: run-pipeline.sh
+### write a script (e.g., collect-ips.sh) that collects IP addresses from all Kubernetes clusters and saves them into ip-list.txt.: collect-ips.sh
+#### Once the IP addresses are collected, you can run the ip-tool.py script to check for collisions.: run-pipeline.sh
